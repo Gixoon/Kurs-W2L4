@@ -1,0 +1,13 @@
+C:\Users\matsk\source\repos\Week2Lesson4\Week2Lesson4\obj\Debug\netcoreapp3.1\Week2Lesson4.csprojAssemblyReference.cache
+C:\Users\matsk\source\repos\Week2Lesson4\Week2Lesson4\obj\Debug\netcoreapp3.1\Week2Lesson4.AssemblyInfoInputs.cache
+C:\Users\matsk\source\repos\Week2Lesson4\Week2Lesson4\obj\Debug\netcoreapp3.1\Week2Lesson4.AssemblyInfo.cs
+C:\Users\matsk\source\repos\Week2Lesson4\Week2Lesson4\obj\Debug\netcoreapp3.1\Week2Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\matsk\source\repos\Week2Lesson4\Week2Lesson4\bin\Debug\netcoreapp3.1\Week2Lesson4.exe
+C:\Users\matsk\source\repos\Week2Lesson4\Week2Lesson4\bin\Debug\netcoreapp3.1\Week2Lesson4.deps.json
+C:\Users\matsk\source\repos\Week2Lesson4\Week2Lesson4\bin\Debug\netcoreapp3.1\Week2Lesson4.runtimeconfig.json
+C:\Users\matsk\source\repos\Week2Lesson4\Week2Lesson4\bin\Debug\netcoreapp3.1\Week2Lesson4.runtimeconfig.dev.json
+C:\Users\matsk\source\repos\Week2Lesson4\Week2Lesson4\bin\Debug\netcoreapp3.1\Week2Lesson4.dll
+C:\Users\matsk\source\repos\Week2Lesson4\Week2Lesson4\bin\Debug\netcoreapp3.1\Week2Lesson4.pdb
+C:\Users\matsk\source\repos\Week2Lesson4\Week2Lesson4\obj\Debug\netcoreapp3.1\Week2Lesson4.dll
+C:\Users\matsk\source\repos\Week2Lesson4\Week2Lesson4\obj\Debug\netcoreapp3.1\Week2Lesson4.pdb
+C:\Users\matsk\source\repos\Week2Lesson4\Week2Lesson4\obj\Debug\netcoreapp3.1\Week2Lesson4.genruntimeconfig.cache
